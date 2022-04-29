@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **akanoce/akanoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="img/logo.png" width="100"/>
+</div>
+
+### Hi there 👋 i'm Erik Nucibella, a Software Engineer specialized in Web Development 
