@@ -25,7 +25,7 @@
 
 - :satellite: Serverless 
 - :globe_with_meridians: Web3
-- :100: Deep Learning, especially applicated to genomics
+- :100: Deep Learning, especially if applied to genomics
 - :chart_with_upwards_trend: Algorithmic trading
 - :moneybag: Personal finance
 
