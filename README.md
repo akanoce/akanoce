@@ -34,10 +34,10 @@
 <div align='middle' width='100%'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png' width='15%' />
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png' width='15%' />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' width='15%' />
+  <img src='https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png' width='15%' />
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='15%' />
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png' width='15%' />
-  <img src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png' width='15%' />
+  <img src='https://cdn.worldvectorlogo.com/logos/fastapi-1.svg' width='15%' />
 </div>
 
 #### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
