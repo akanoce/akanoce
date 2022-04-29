@@ -9,7 +9,7 @@
 
 # Hi there 👋 i'm Erik Nucibella, a Software Engineer specialized in Fullstack Web Development 
 
-## What do i do?:
+## What do i do?
 
 - 🧑‍💻 I work as a consultant for different companies handling projects both at 360 and integrating in existing mid size teams, managed by PMs
 - 🧑‍🏫 I assist wannabe web developers as a tutor in the fullstack course of @Develhope
@@ -33,9 +33,10 @@
 
 #### For two years, i've been particularly interested in personal finance and financial markets, digging deep into subjects like investing, trading and risk management.
 #### I am therefore skilled and interest in algorithmic trading and quantitative finance, developing and backtesting hundreds of algos, which led to the creation of a web based platform that allows to create and backtest strategies written via a python code-editor.
-#### I feel like this is just the start of something that would revolutionize the way people invest, with the aim of building a ** roboadvisory service ** focused on AI and backtest. To do so, ** i'm looking for really skilled people, with a strong passion for finance and trading **. Feel free to react via email if you wanna know more. 
+#### I feel like this is just the start of something that would revolutionize the way people invest, with the aim of building a **roboadvisory service** focused on AI and backtest. 
+> I'm therefore looking for really skilled people, with a strong passion for finance and trading. Feel free to reach via email if you wanna know more. 
 
-## What technologies do i use?
+## Which technologies do i use?
 
 #### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
 
