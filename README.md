@@ -12,7 +12,7 @@
 ## What do i do?
 
 - 🧑‍💻 I work as a consultant for different companies handling projects both at 360 and integrating in existing mid size teams, managed by PMs
-- 🧑‍🏫 I assist wannabe web developers as a tutor in the fullstack course of @Develhope
+- 🧑‍🏫 I assist wannabe web developers as a tutor in the fullstack course at [Develhope](https://develhope.co/)
 - 💡 I develop my own ideas with the aim of bringing innovation through the use of technology
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -31,7 +31,17 @@
 
 ## Which technologies do i use?
 
+<div align='middle' width='100%'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png' width='15%' />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png' width='15%' />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' width='15%' />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='15%' />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png' width='15%' />
+  <img src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png' width='15%' />
+</div>
+
 #### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
+
 
 - Javascript, Typescript , Python
 - React.js
