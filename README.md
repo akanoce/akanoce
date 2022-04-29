@@ -42,16 +42,16 @@
 ##### Wanna see more ? 
 
 
-<img src="img/backtest_table.png" width="100%" />
+<img width='80%' src="img/veerance/backtest_table.png" width="100%" />
 
     
-<p float="left">
-        <img src="img/veerance/backtest_detail_1.png" width="45%" />
-        <img src="img/veerance/backtest_detail_2.png" width="45%" />
+<p float="left" width='80%'>
+        <img src="img/veerance/backtest_detail_1.png" width="40%" />
+        <img src="img/veerance/backtest_detail_2.png" width="40%" />
 
 </p>
 
-  <img src="img/veerance/backtest_insights.png" width="100" />
+  <img src="img/veerance/backtest_insights.png" width="80%" />
 
 > I'm therefore looking for really skilled people, with a strong passion for finance and trading. Feel free to reach via email if you wanna know more. 
 
