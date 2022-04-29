@@ -19,4 +19,7 @@ Here are some ideas to get you started:
   <img src="img/logo.png" width="100"/>
 </div>
 
-### Hi there 👋 i'm Erik Nucibella, a Software Engineer specialized in Web Development 
+## Hi there 👋 i'm Erik Nucibella, a Software Engineer specialized in Fullstack Web Development 
+### I work as a freelancer often handling projects from the design and implementation to the deploy, but i also integrate in mid-size teams managed by PMs.
+### With a strong passion for programming, i exploit the skills acquired over the years to develop my own project and ideas.
+### For two years, i've been particularly interested in personal finance and financial markets, digging deep into subjects like investing, trading and risk management. I am therefore skilled and interest in algorithmic trading and quantitative finance, developing and backtesting hundreds of algos, which led to the creation of a web based platform that allow to create and backtest strategies written via a python code-editor, that will be the base of my own robo-advisory service   
