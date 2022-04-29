@@ -25,7 +25,7 @@
 
 - :satellite: Serverless 
 - :globe_with_meridians: Web3
-- :100: Deep Learning, especially applicated to the genomics
+- :100: Deep Learning, especially applicated to genomics
 - :chart_with_upwards_trend: Algorithmic trading
 - :moneybag: Personal finance
 
@@ -64,7 +64,8 @@ I'm a huge fan of typing and data validation. Therefore, i usually provide to my
 
   <img src="img/veerance/backtest_insights.png" width="100%" />
 
-``` I'm therefore looking for really skilled people, with a strong passion for finance and trading. Feel free to reach via email if you wanna know more. ```
+``` I'm therefore looking for really skilled people, with a strong passion for finance, crypto and trading. 
+Feel free to reach via email if you wanna know more. ```
 
 
 
