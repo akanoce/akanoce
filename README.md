@@ -29,33 +29,6 @@
 - :chart_with_upwards_trend: Algorithmic trading
 - :moneybag: Personal finance
 
-## What am i working on ? 
-
-### Roboadvisory service 
-
--  For two years, i've been particularly interested in personal finance and financial markets, digging deep into subjects like investing, trading and risk management.
--  I am therefore skilled and interest in algorithmic trading and quantitative finance, developing and backtesting hundreds of algos, which led to the creation of a web based platform that allows to create and backtest strategies written via a python code-editor.
-- I feel like this is just the start of something that would revolutionize the way people invest, with the aim of building a **roboadvisory service** focused on AI and backtest. 
-
-
-
-##### Wanna see more ? 
-
-
-<img width='100%' src="img/veerance/backtest_table.png" width="100%" />
-
-    
-<p float="left" width='100%' align='middle'>
-        <img src="img/veerance/backtest_detail__info.png" width="30%" />
-        <img src="img/veerance/backtest_detail__plot.png" width="30%" />
-          <img src="img/veerance/backtest_detail__results.png" width="30%" />
-
-</p>
-
-  <img src="img/veerance/backtest_insights.png" width="100%" />
-
-> I'm therefore looking for really skilled people, with a strong passion for finance and trading. Feel free to reach via email if you wanna know more. 
-
 ## Which technologies do i use?
 
 #### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
@@ -68,6 +41,32 @@
 - Linux-based system, with a focus on web servers configuration
 
 I'm a huge fan of typing and data validation. Therefore, i usually provide to my applications both static and runtime data and types validation using things like `zod` and `pydantic`. 
+
+## What am i working on ? 
+
+### Roboadvisory service 
+
+-  For two years, i've been particularly interested in personal finance and financial markets, digging deep into subjects like investing, trading and risk management.
+-  I am therefore skilled and interest in algorithmic trading and quantitative finance, developing and backtesting hundreds of algos, which led to the creation of a web based platform that allows to create and backtest strategies written via a python code-editor.
+- I feel like this is just the start of something that would revolutionize the way people invest, with the aim of building a **roboadvisory service** focused on AI and backtest. 
+
+##### Wanna see more ? 
+
+<img width='100%' src="img/veerance/backtest_table.png" width="100%" />
+
+    
+<p float="left" width='100%' align='middle'>
+        <img src="img/veerance/backtest_detail__info.png" width="33%" />
+        <img src="img/veerance/backtest_detail__plot.png" width="33%" />
+          <img src="img/veerance/backtest_detail__results.png" width="33%" />
+
+</p>
+
+  <img src="img/veerance/backtest_insights.png" width="100%" />
+
+``` I'm therefore looking for really skilled people, with a strong passion for finance and trading. Feel free to reach via email if you wanna know more. ```
+
+
 
 
 
