@@ -29,26 +29,86 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
 
 ## Which technologies do i use?
 
-<div align='middle' width='100%'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png' width='15%' />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png' width='15%' />
-  <img src='https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png' width='15%' />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='15%' />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png' width='15%' />
-  <img src='https://cdn.worldvectorlogo.com/logos/fastapi-1.svg' width='15%' />
-</div>
-
-#### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
+### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
 
 
-- Javascript, Typescript , Python
-- React.js
-- Node.js, FastAPI, Flask
-- MYSQL, MongoDB
-- Docker, docker-compose, Nginx 
-- Linux-based system, with a focus on web servers configuration
+#### Languages 
+<table style="padding:10px" width="30%">
+  <tr>
+    <td> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433' height='40px' />
+    </td>
+      
+ <td>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png' height='40px' />
+    </td>
+     <td>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png' height='40px' />
+    </td>
+    
+</tr>
+  </table>
 
-I'm a huge fan of typing and data validation. Therefore, i usually provide to my applications both static and runtime data and types validation using things like `zod` and `pydantic`. 
+#### Frontend development 
+<table style="padding:10px" width="30%">
+  <tr>
+    <td> 
+    <img src='https://www.juicymedia.co.uk/application/files/4615/1838/4923/html_css_js.png'  height="40px" />
+    </td>
+      
+ <td>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' height="40px" />
+    </td>
+     <td>
+    <img src='https://www.drupal.org/files/project-images/screenshot_361.png' height="40px" />
+    </td>
+    
+    
+</tr>
+
+  </table>
+  
+#### Mobile development 
+<table style="padding:10px" width="30%">
+  <tr>
+    <td> 
+<img src='https://www.datocms-assets.com/45470/1631026680-logo-react-native.png' height='40px' />
+    </td>
+    
+</tr>
+  </table>
+  
+#### Backend development 
+<table style="padding:10px" width="30%">
+  <tr>
+    <td> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png' height='40px' />
+    </td>
+        <td> 
+  <img src='https://cdn.worldvectorlogo.com/logos/fastapi-1.svg' height='40px' />
+    </td>
+    
+</tr>
+  </table>
+  
+#### Infrastructure 
+<table style="padding:10px" width="30%">
+  <tr>
+    <td> 
+  <img src='https://www.websiterating.com/wp-content/uploads/virtual-private-server-hosting.png' height='40px' />
+    </td>
+        <td> 
+  <img src='https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png' height='40px' />
+    </td>
+            <td> 
+  <img src='https://i0.wp.com/indomus.it/wp-content/uploads/Docker-Compose-Logo.jpg?fit=1851%2C889&ssl=1' height='40px' />
+    </td>
+            <td> 
+  <img src='https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png' height='40px' />
+    </td>
+    
+</tr>
+  </table>
 
 
 
