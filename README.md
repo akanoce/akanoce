@@ -1,5 +1,3 @@
-
-
 <!--
 **akanoce/akanoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,21 +5,21 @@
   <img src="img/logo.png" width="100"/>
 </div>
 
-# Hi there 👋 i'm Erik Nucibella, a Software Engineer specialized in Fullstack Web Development 
+# Hi there 👋 i'm Erik Nucibella, a Software Engineer specialized in Fullstack Web Development
 
 ## What do i do?
 
 After a few years of freelancing where i worked mainly as:
+
 - 🧑‍💻 Consultant: Fullstack developer working at different companies and web agencies. Working mainly with MERN and FARM stack;
 - 🧑‍🏫 Tutor: I assisted wannabe web developers in the fullstack course at [Develhope](https://develhope.co/);
 - 💡 Startupper: Developed my own ideas with the aim of bringing innovation through the use of technology;
 
 I am now working as a software engineer at [Vechain](http://vechain.org/), leading L1 sokution in the blockchain space.
 
-
 ## What am i interested into?
 
-- :satellite: Serverless 
+- :satellite: Serverless
 - :globe_with_meridians: Web3
 - :100: Deep Learning, especially if applied to genomics
 - :chart_with_upwards_trend: Algorithmic trading
@@ -29,11 +27,11 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
 
 ## Which technologies do i use?
 
-### As a fullstack developer, i'm familiar with the complete web development flow, over the time, i specialized in using:
+### As a fullstack developer i'm familiar with the complete web development flow. Professionaly with:
 
+#### Languages
 
-#### Languages 
-<table style="padding:10px" width="30%">
+<table style="padding:10px" >
   <tr>
     <td> 
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433' height='40px' />
@@ -49,8 +47,9 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
 </tr>
   </table>
 
-#### Frontend development 
-<table style="padding:10px" width="30%">
+#### Frontend development
+
+<table style="padding:10px" >
   <tr>
     <td> 
     <img src='https://www.juicymedia.co.uk/application/files/4615/1838/4923/html_css_js.png'  height="40px" />
@@ -62,6 +61,12 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
      <td>
     <img src='https://www.drupal.org/files/project-images/screenshot_361.png' height="40px" />
     </td>
+             <td>
+  <img src='https://redux.js.org/img/redux-logo-landscape.png' height='40px' />
+    </td>
+         <td>
+  <img src='https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg' height='40px' />
+    </td>
     
     
 </tr>
@@ -69,7 +74,7 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
   </table>
   
 #### Mobile development 
-<table style="padding:10px" width="30%">
+<table style="padding:10px" >
   <tr>
     <td> 
 <img src='https://www.datocms-assets.com/45470/1631026680-logo-react-native.png' height='40px' />
@@ -79,7 +84,7 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
   </table>
   
 #### Backend development 
-<table style="padding:10px" width="30%">
+<table style="padding:10px" >
   <tr>
     <td> 
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png' height='40px' />
@@ -87,12 +92,18 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
         <td> 
   <img src='https://cdn.worldvectorlogo.com/logos/fastapi-1.svg' height='40px' />
     </td>
+         <td>
+  <img src='https://www.geekandjob.com/uploads/wiki/2e5b0058b2d38158b21439fe06e9b8fabe3cb139.png' height='40px' />
+    </td>
+         <td>
+  <img src='https://repository-images.githubusercontent.com/69495170/8125e100-61bc-11e9-8d9f-eb01f522f962' height='40px' />
+    </td>
     
 </tr>
   </table>
   
 #### Infrastructure 
-<table style="padding:10px" width="30%">
+<table style="padding:10px">
   <tr>
     <td> 
   <img src='https://www.websiterating.com/wp-content/uploads/virtual-private-server-hosting.png' height='40px' />
@@ -109,9 +120,3 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
     
 </tr>
   </table>
-
-
-
-
-
-
