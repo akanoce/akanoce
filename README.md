@@ -101,6 +101,20 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
     
 </tr>
   </table>
+
+#### Database 
+<table style="padding:10px" >
+  <tr>
+    <td> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' height='40px' />
+    </td>
+        <td> 
+  <img src='https://code.4noobz.net/wp-content/uploads/2019/07/MongoDB-Realm-database.png' height='40px' />
+    </td>
+
+    
+</tr>
+  </table>
   
 #### Infrastructure 
 <table style="padding:10px">
@@ -116,6 +130,26 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
     </td>
             <td> 
   <img src='https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png' height='40px' />
+    </td>
+    
+</tr>
+  </table>
+
+#### What's next?
+
+##### Tech i'm planning to focus on this year
+
+  <table style="padding:10px">
+  <tr>
+    <td> 
+  <img src='https://trpc.io/img/logo.svg' height='40px' />
+    </td>
+        <td> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png' height='40px' />
+    </td>
+
+  <td> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png' height='40px' />
     </td>
     
 </tr>
