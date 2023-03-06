@@ -15,7 +15,7 @@ After a few years of freelancing where i worked mainly as:
 - 🧑‍🏫 Tutor: I assisted wannabe web developers in the fullstack course at [Develhope](https://develhope.co/);
 - 💡 Startupper: Developed my own ideas with the aim of bringing innovation through the use of technology;
 
-I am now working as a software engineer at [Vechain](http://vechain.org/), leading L1 sokution in the blockchain space.
+I am now working as a software engineer at [Vechain](http://vechain.org/), leading L1 solution in the blockchain space.
 
 ## What am i interested into?
 
