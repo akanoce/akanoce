@@ -141,6 +141,9 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
 
   <table style="padding:10px">
   <tr>
+      <td> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png' height='40px' />
+    </td>
     <td> 
   <img src='https://trpc.io/img/logo.svg' height='40px' />
     </td>
@@ -152,5 +155,6 @@ I am now working as a software engineer at [Vechain](http://vechain.org/), leadi
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png' height='40px' />
     </td>
     
+
 </tr>
   </table>
